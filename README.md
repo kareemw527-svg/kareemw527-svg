@@ -1,3 +1,5 @@
+![Kareem Wael — Full Stack Web Developer](assets/header.svg)
+
 # Hi, I’m Kareem Wael
 
 **Full Stack Web Developer · Founder of Hyperhue**
